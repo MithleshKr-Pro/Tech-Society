@@ -1,0 +1,35 @@
+1. What does CPU stand for?
+A) Central Process Unit  
+B) Central Processing Unit  
+C) Computer Processing Unit  
+D) Control Processing Unit  
+
+Answer: B
+2. Which of the following is a renewable source of energy? 
+A) Coal  
+B) Natural Gas  
+C) Solar Energy  
+D) Petroleum  
+
+Answer: C
+3. Who is known as the Father of the Nation in India?
+A) Sardar Vallabhbhai Patel  
+B) Dr. B.R. Ambedkar  
+C) Jawaharlal Nehru  
+D) Mahatma Gandhi  
+
+Answer: D
+4. What is the capital of France?  
+A) Berlin  
+B) Madrid  
+C) Paris  
+D) Rome  
+
+Answer: C
+5. Which data structure uses LIFO (Last In, First Out)? 
+A) Queue  
+B) Array  
+C) Stack  
+D) Linked List  
+
+Answer: C
